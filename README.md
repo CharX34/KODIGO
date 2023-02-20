@@ -1,2 +1,0 @@
-# KODIGO
-Ejercicios de Práctica
